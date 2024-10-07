@@ -6,7 +6,7 @@ https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe
 ![Python](https://i.imgur.com/dMWMSLX.png)
 
 # Usage
-
+## Setup Proxy
 Edit main.py, open main.py, replace MY_PROXY with your proxy:
 ```bash
 MY_PROXY = "http://doremon1-zone-resi-region-us-session-session_id-sessTime-120:xxxxxxxx@na.pyproxy.io:16666"
