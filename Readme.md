@@ -40,6 +40,14 @@ pip install async_timeout
 pip install requests
 ```
 
+Put account to farms.txt :
+
+```bash
+email|password
+email|password
+email|password
+```
+
 ```bash
 python main.py <option> <threads>
 ```
